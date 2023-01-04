@@ -6,8 +6,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Scheduling Software
-- 🌱 I’m currently learning about AWS and C++
+- 🔭 I’m currently working on a chrome extension
+- 🌱 I’m currently learning about AWS and Python backends
 - 👯 I’m looking to collaborate on open source projects and open GitHub issues
 - :memo: Check out my contributions to [Coding Interview University](https://github.com/jwasham/coding-interview-university) [here!](https://github.com/jwasham/coding-interview-university/pulls?q=is%3Apr+author%3Acolin-mccormack+is%3Aclosed+)
 
