@@ -15,8 +15,8 @@
 
 <div align="center" width="50%">
   
-[![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colin-mccormack&show_icons=true&theme=Gradient&count_private=true&include_all_commits=true&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colin-mccormack&hide=CMake,Makefile,HTML&layout=compact&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colin-mccormack&show_icons=true&theme=Nord&count_private=true&include_all_commits=true&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colin-mccormack&hide=CMake,Makefile,HTML&layout=compact&theme=Nord)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
 
