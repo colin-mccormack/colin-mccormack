@@ -16,8 +16,8 @@
 
 <div align="center" width="50%">
   
-[![Colin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=colin-mccormack&show_icons=true&theme=github_dark&count_private=true&hide_rank=true&include_all_commits=true&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=colin-mccormack&hide=CMake,Makefile,HTML,CSS&layout=compact&theme=github_dark)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)
+[![Colin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=colin-mccormack&show_icons=true&theme=github_dark&count_private=true&hide_rank=true&include_all_commits=true&cache_seconds=7200&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=colin-mccormack&hide=CMake,Makefile,HTML,CSS&layout=compact&theme=github_dark&bg_color=00000000)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)
   
   </div>
 
